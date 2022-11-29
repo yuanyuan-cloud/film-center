@@ -1,0 +1,19 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "imgUrl": "https://pic.maizuo.com/usr/movie/f31367bb1a275f032ea3793a0571d9e0.jpg",
+      "title":"万里归途"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://pic.maizuo.com/usr/movie/2079ee083f7caaeac01d270b8fc5ab3b.png",
+      "title":"扫黑行动"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://pic.maizuo.com/usr/movie/107fdd2e39c274e962c6980b73103b43.jpg",
+      "title":"我的遗憾和你有关"
+    }
+  ]
+}
